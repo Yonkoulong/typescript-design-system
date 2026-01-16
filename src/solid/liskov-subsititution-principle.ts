@@ -1,5 +1,6 @@
 //3. Liskov Substitution principle
-// If S is a subtype of T, then objects of type T in a program may be replaced with objects of type S without altering any of the desirable properties of that program.
+// If S is a subtype of T, then objects of type T in a program may be replaced with objects of type S 
+// without altering any of the desirable properties of that program.
 
 // ======= example 1
 abstract class Shape {
